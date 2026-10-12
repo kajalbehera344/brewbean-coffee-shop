@@ -1,34 +1,74 @@
-# Brew & Bean — Coffee Ordering Frontend
+# Brew & Bliss — Coffee Ordering Website
 
-Brew & Bean is a café storefront concept designed and built as a portfolio project. The goal is to make a coffee order feel like a small, personal ritual rather than a generic checkout flow.
+<p align="center">
+  <img src="screenshots/homepage.png" alt="Coffee Website Homepage" width="850">
+</p>
 
-## What makes this project personal
-- Custom café name, visual identity, warm editorial typography, and a muted green / cream palette
-- A “Brew AI” coffee guide that matches a visitor's mood and hot/iced preference to a menu item
-- Original interaction flow connecting recommendations to the shopping bag
-- Thoughtful empty-cart state, quantity controls, product categories, small copy details, and mobile layout
+<p align="center">
+  A modern coffee ordering website built with HTML, CSS and JavaScript.
+  <br>
+  A Good Day Starts with Coffee.
+</p>
+
+---
+
+## About the Project
+
+Brew & Bliss is a coffee shop frontend project designed with a warm color palette, attractive coffee imagery, and a clean, user-friendly layout. It showcases coffee products and provides a simple browsing experience.
 
 ## Features
-- Responsive landing page and café-style menu
-- Six coffee / tea products with category filtering
-- Brew AI mood-based recommendation panel
-- Add to bag, update quantities, remove items, and automatic subtotal
-- Demo checkout confirmation
-- No framework or package installation required
 
-## How the Brew AI feature works
-Brew AI uses a small, readable local recommendation engine in `script.js`. It takes the selected mood and temperature preference, then chooses a fitting item from the menu. It is an AI-inspired recommendation feature, not a connected generative-AI model. It works offline from API services and requires no secret keys. You can later connect a real AI API if you want natural-language chat recommendations.
+- Modern coffee shop homepage
+- Coffee menu with product images and prices
+- Coffee-themed design and typography
+- About section
+- Responsive layout
+- Simple navigation
 
-## Run in VS Code
-1. Download and extract `brewbean-coffee-shop.zip`.
-2. Open the extracted `brewbean-coffee-shop` folder in VS Code.
-3. Open `index.html` in a browser, or install the **Live Server** extension, right-click `index.html`, and choose **Open with Live Server**.
+## Technologies Used
 
-## Files
-- `index.html` — page structure
-- `style.css` — visual design and responsive styles
-- `script.js` — menu filtering, cart behavior, and Brew AI recommendation logic
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- Live Server
 
-## Notes
-- Product photos and Google Fonts load from external URLs, so those visual assets need an internet connection.
-- This is a frontend-only demo. Cart data resets on refresh; orders and payments are not sent to a server.
+## Website Screenshots
+
+### Homepage
+
+![Coffee Website Homepage](screenshots/homepage.png)
+
+### Coffee Menu
+
+![Coffee Menu](screenshots/menu.png)
+
+### About Section
+
+![About the Coffee Shop](screenshots/about.png)
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html`.
+4. Right-click and select **Open with Live Server**.
+
+## Future Improvements
+
+- Shopping cart functionality
+- Coffee search and category filters
+- Order summary and checkout
+- Personalized coffee recommendations
+
+## Author
+
+**Kajal Behera**
+
+GitHub: [kajalbehera344](https://github.com/kajalbehera344)
+
+---
+
+<p align="center">
+  Made with coffee and code.
+</p>
