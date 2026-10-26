@@ -43,9 +43,6 @@ Brew & Bliss is a coffee shop frontend project designed with a warm color palett
 
 ![Coffee Menu](screenshots/menu.png)
 
-### About Section
-
-![About the Coffee Shop](screenshots/about.png)
 
 ## How to Run
 
